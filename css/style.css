@@ -78,3 +78,9 @@
 .rgba{
     color: rgba(255, 0, 0, 0.6);
 }
+
+.bg-image{
+    background-image: url(../img/nature.jpg);
+    padding: 10px;
+    color: #fff;
+}
