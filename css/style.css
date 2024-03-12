@@ -41,6 +41,19 @@
     border-bottom: 4px solid green;
 }
 
+/* 11 nome da cor */
 .color-name{
     color: crimson;
+}
+
+/* 12 hex */
+
+.hex{
+    background: green;
+    color: white;
+}
+
+.hex-2{
+    background: #55a398;
+    color: white;
 }
